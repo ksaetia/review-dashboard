@@ -88,7 +88,7 @@ def init_db_with_csv():
     finally:
         session.close()
 
-def get_reviews(selected_restaurant, selected_type, selected_response, selected_confidence, selected_review_only):
+def get_reviews(selected_restaurant, selected_type, selected_response, selected_confidence, selected_review_only, selected_name_only):
     """Get reviews with optional filters"""
     session = Session()
     query = session.query(Review)
@@ -102,6 +102,8 @@ def get_reviews(selected_restaurant, selected_type, selected_response, selected_
         query = query.filter(Review.confidence == selected_confidence)
     if selected_review_only != 'All':
         query = query.filter(Review.review_only == selected_review_only)
+    if selected_name_only != 'All':
+        query = query.filter(Review.name_only == selected_name_only)
     reviews = query.all()
     session.close()
     return reviews

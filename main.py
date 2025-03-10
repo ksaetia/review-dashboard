@@ -22,7 +22,7 @@ st.markdown('<h1 class="restaurant-title">Restaurant Review Dashboard 🍽️</h
 
 # Create filter section
 st.markdown('<div class="filter-section">', unsafe_allow_html=True)
-col1, col2, col3, col4, col5 = st.columns(5)
+col1, col2, col3, col4, col5, col6 = st.columns(6)
 
 with col1:
     # Get unique restaurant names from database
@@ -47,6 +47,22 @@ with col2:
     )
 
 with col3:
+    # Name Only filter
+    name_only_options = ['All', 'yes', 'no']
+    selected_name_only = st.selectbox(
+        'Filter by Name Only',
+        name_only_options
+    )
+
+with col4:
+    # Review Only filter
+    review_only_options = ['All', 'yes', 'no']
+    selected_review_only = st.selectbox(
+        'Filter by Review Only',
+        review_only_options
+    )
+
+with col5:
     # Name & Review filter
     name_and_review_options = ['All', 'yes', 'no']
     selected_name_and_review = st.selectbox(
@@ -54,7 +70,7 @@ with col3:
         name_and_review_options
     )
 
-with col4:
+with col6:
     # Confidence filter
     session = Session()
     confidence_levels = sorted(set(r[0] for r in session.query(Review.confidence).distinct()))
@@ -65,18 +81,10 @@ with col4:
         ['All'] + list(confidence_levels)
     )
 
-with col5:
-    # Review Only filter
-    review_only_options = ['All', 'yes', 'no']
-    selected_review_only = st.selectbox(
-        'Filter by Review Only',
-        review_only_options
-    )
-
 st.markdown('</div>', unsafe_allow_html=True)
 
 # Get filtered reviews from database
-reviews = get_reviews(selected_restaurant, selected_type, selected_name_and_review, selected_confidence, selected_review_only)
+reviews = get_reviews(selected_restaurant, selected_type, selected_name_and_review, selected_confidence, selected_review_only, selected_name_only)
 
 # Convert reviews to dataframe for display
 filtered_df = pd.DataFrame([{
