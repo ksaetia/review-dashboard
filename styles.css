@@ -1,0 +1,46 @@
+/* filepath: /Users/kittipong.saetia/Documents/Personal/Khipi/Reviews/review-dashboard/styles.css */
+.review-table {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.stSelectbox {
+    margin-bottom: 1rem;
+}
+
+.review-text {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-width: 600px;
+}
+
+.restaurant-title {
+    color: #FF4B4B;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.filter-section {
+    background-color: #F0F2F6;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.metrics-container {
+    padding: 1rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+
+/* Custom styling for dataframe */
+[data-testid="stDataFrame"] {
+    width: 100%;
+}
+
+[data-testid="stDataFrame"] div[data-testid="stDataFrameContainer"] {
+    min-height: 600px;
+}
+
+/* Ensure text wrapping in cells */

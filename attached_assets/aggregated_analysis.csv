@@ -1,0 +1,689 @@
+Restaurant Name,Cuisine,Reviewer Name,Review Date,Review,Rating,Word Count,Name Only,Review Only,Name & Review,Confidence,Model
+Orinoco Harvard Square,Venezuelan,Le Petit Salon Curl Concept,2024-12-16,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Marielle Russo,2024-12-07,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gabrielle G-C,2024-11-19,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Will,2024-11-17,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,mary venegas,2024-10-06,"No tuve el chance de probar su comida, pero vi salir unos cuantos platos de la cocina y lucían deliciosos.
+El ambiente es muy agradable y la atencion maravillosa.
+Hoy tuvimos el placer de tomarnos dos riquisimos papelon con limón cortesía de la casa. Agradecidos🌿🇻🇪🇺🇸",5.0,45.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Eugene Chung,2024-08-29,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ryan K,2024-08-25,"Tasty take out, though they could improve by labeling boxes within an order.",5.0,13.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Wislande Pierre,2024-08-09,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Chi Moore,2024-08-03,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ligia Alfonzo,2018-08-30,"Best Venezuelan food in Boston. The tequenos are to die for, better than the ones I had in Venezuela.",5.0,19.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tyu,2024-07-22,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Seeam Shahid Noor,2024-07-17,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jeanne Grg,2024-07-06,"Nourriture très bonne, beaucoup de choix dont beaucoup de végétariens, terrasse sympa",5.0,12.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Arwen L,2024-06-30,"The lamb was great, tasty and pairing sauce was great. The portion does feel a little too small. Sangria was also nice but does feel a little overly-diluted. Will come back to try the arepa next time.",4.0,37.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Miranda Gahrmann,2024-06-29,"Food was tasty, but the service was not great. They brought it late, although I mentioned before ordering that I had to leave at a certain time and they said the food would be ready in time, which wasn’t the case. Also, when I asked if I could use the WiFi, the lady answered “we have WiFi but don’t share the password”…",3.0,62.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Josh S Eibelman,2024-06-09,"Food and service were good, but we saw 2 huge rats on the patio",3.0,14.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Liliane B.,2024-06-02,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Harish Seethapathi,2024-05-11,"Great food, had the arepas , the chef made a special arrangement just for us.",5.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Agu Leon,2024-04-28,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Hana Na,2024-04-27,"First time eating Venezuelan food. At lunch, the service was a little slow. It took 25 mins to have our food but everything was delicious and flavorful. Trio De Empanadas, each dumplings have different flavors as shredded pork, cheese and black bean paste. Not many options on the lunch menu so I want to try their dinner menu next time.",4.0,60.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Elizabeth Amaral,2024-04-21,"Stumbled upon this place last night while trying to find somewhere good to eat for a late bday celebration. Our server was amazing- gave so many good recommendations and everything we tried was absolutely delicious. The sangria is a must try and the beef and cheese arepa was out of this world. We also tried the chicken and pork arepas, and the chicken and steak plate, and mini ribs. It was so delicious. Our server gave 10/10 service, including bringing us out free dessert and allowed us to sample drinks before ordering. For all that food and drinks for 3 people we only paid $160 after tip. A hidden gem and a must try :)",5.0,115.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Cali,2024-04-13,"it took about 45 minutes to bring the food which was a little bit cold. The people was very kind and attentive, shame what happened with the food.",3.0,28.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Emir Naduvil,2024-04-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fran Yuan,2024-03-09,Excellent empanadas,5.0,2.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Emilio Gonzalez,2024-03-05,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gabs Thompson,2024-02-24,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Maria Elena Escalante,2024-02-19,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Miranda Reed,2024-02-09,delish. yummylicious. scrumdiddlyumptious.,5.0,3.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yeli A,2024-01-12,Everything ordered was good. Small and quaint. It’s in Harvard Square so keep in mind street parking is not the easiest. Only reason I didn’t give 5 stars is because they don’t have chicha on the menu :-). It’s like not having horchata at a Mexican restaurant.,4.0,47.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,liz coombs,2023-11-18,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Joe Smith,2023-11-14,"My small group had a serendipitous experience at Orinoco. We walked around and happened to stumble on this place for dinner - it's definitely a hidden gem.
+
+I loved the atmosphere; quiet so that I could talk to my group and not too bright or too dark. We ordered the tequenos, plantains, and ribs for appetizers; the latter two were totally delicious. Service was good but nothing spectacular and unfortunately they did not have Arepas that night.
+
+For the main course I got the lamb chops and quinoa. Both were mind-blowingly delicious and cooked to perfection. This was the tastiest quinoa I ever had and a top-tier lamb dish with a delicious mint sauce. The prices were also very reasonable!
+
+Overall highly satisfied with the meal and will definitely come back to try the Arepas.",5.0,135.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Maru Davalos,2023-11-08,"I love this place! Great food, nice people and nice atmosphere. Try everything in special don’t forget to ask for the sangria!
+so good!👌🏼",5.0,24.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Oindrilla Chatterjee,2023-11-07,"We recently dined at this quaint spot in Harvard Square. We tried the Steak, the ribs, and the guava flatbread. The guava flatbread was a standout, however, the ribs and the steak didn't quite meet our expectations. The ribs were a bit tough to cut through, and the BBQ sauce, which was the same for both dishes, didn't quite hit the mark for us. We had ordered the steak cooked to medium, but it turned out a bit too chewy and overcooked. The staff kindly replaced it, and the second one came out cooked to a perfect medium, which we appreciated. In terms of beverage options, the selection was somewhat limited, with only wine and beer available. On a less positive note, we did observe a rat scurrying through the dining area, which was quite surprising and definitely detracted from the overall experience.
+
+Edit based on owners question: Appreciate your prompt response. We were seated indoors in the dining room and saw what would be a “mouse”, still pretty disturbing to see it run indoors along the outside wall of the bar
+Also yeah, getting a heads up about our order would have been nice. All the 3 items we had ordered had some of the sauce, wish we got a heads up.",2.0,213.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mathilde VDB,2023-11-05,A hidden gem - venezualian cuisine at its best. Quite some vegetarian options as well!,5.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mayerli Mateus,2023-11-05,"Nice place to have arepas , not expensive I think prices are fair. Ocasssion : you are hanging up around Harvard university and wanna eat some latin tasty food and don’t want to go crazy with the budget.",5.0,38.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Harold Oshima,2023-10-12,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sam and Lizzie,2023-09-29,"Love this place! Found via Off the Beaten Path Food Tours, our group loved Orinoco. The atmosphere is really intimate, and the food is fresh and tasty. We tried cheese covered plantains and yummy bacon wrapped dates that were out of this world. The sangria was also incredible and our server was so kind! Highly recommend.",5.0,56.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fletch Fue,2023-09-27,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Vivekananda,2023-09-26,Visited for an event. Good food and service. Will visit again.,5.0,11.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jaye Aster Broder,2023-09-11,"There are stairs and the smell of trash that you must pass to enter the restaurant. As other have said, the restaurant was out of arepas when we went. The website is misleading as it talks about prices potentially differing from the website but the tables just have QR codes that take you to another website with pricing that shows everything the restaurant is out of stock. The meat plate was a good value but the steak on it was cooked medium well instead of medium rare. The cachapa wasn’t super filling. The re at air and was clean and had a nice laid back vibe. I went in with high expectations but found it just okay.",3.0,117.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tamira,2023-09-04,"Excellent food, lovely vibe. They close during the afternoons though, so make sure to keep an eye on their hours. The chocolate lava cake was INCREDIBLE.",5.0,26.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ebrahim Tahaei,2023-09-01,"Have been here twice. It’s a nice, cozy place with a tasty food. Loved the food, service and the atmosphere",5.0,20.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jayashree Raghavan,2023-08-28,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Raj Vinjamuri,2023-08-20,Fantastic arepas and empanadas. Like a square meal with included salad. Look for the archway to enter. The garlic mojo sauce is so fresh.,5.0,24.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kerwin Jr. Holmes,2023-08-01,Had a great time here for a rather large party.  I think the kitchen couldn’t keep up.  But the meals were good and served warm when they came out and the employees were all professionals and had good attitudes.,4.0,39.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Suvrajit Saha,2023-08-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rohan Banerji,2023-07-27,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Craig Martin,2023-07-24,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rebecca Brent,2023-07-22,"Everything was delicious and well priced. Service was great and I loved the atmosphere. Also not too busy on a Friday at 630PM which was ideal since I was very hungry when I got there. The red sangria is delicious, I suggest the pitcher because you WILL want more than one glass.",5.0,52.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrés A,2023-07-15,"What a great place to have near Harvard Square. I am Venezuelan myself, and I had to try it after seeing the name. I was not disappointed.
+Check out their patio too, it's lovely.",5.0,34.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pratip Banerji,2023-07-15,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Roxana Arévalo Ruiz,2023-07-12,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Román Ramos Báez,2023-07-01,"We ordered fried yuca, sweet plantain, tostones, green empanadas (cheese and mushroom), and arepas. Everyone was super happy with the food. Our server was very charming and great. Would go on a weekly if we lived near Harvard.",5.0,38.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mariano Fernandez,2023-06-21,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jimmy Zeng,2023-06-18,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Michael “Michi” Zapf,2023-06-05,Interesante südamerikanische Küche 😎,4.0,4.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Quynh Dang,2023-06-13,"The menu, taste and presentation is very corporate, if you know what I mean. Not authentic Venezuelan. A cozy dining room with a back patio for outdoor dining.",3.0,28.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,maria dek,2023-05-25,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sarah Wang,2023-05-17,"Tucked away in a little alleyway and had really nice cozy evening fairytale vibes! Tried the pelua arepa! Good cheese, meat and arepa corn bread(?)! It came with a really strong but incredible garlic sauce too!",5.0,36.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ahnaf Hassan,2023-05-13,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yenkis Sánchez,2023-05-13,Too expensive,2.0,2.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nestor Hernandez,2023-05-08,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jon Langbert,2023-05-04,"Great food, same as their Brookline outpost. Tuna was awesome, as were all the appetizers involving cheese. Sadly, they were out of arepas. Will definitely be back. Caution: they close early on weekdays. No idea why.",5.0,36.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,William Weber,2023-04-26,"Excellent vibe with friendly staff. The food was good, especially the ribs! Arepas are good, but won’t blow your mind. Could be a little more moist and the white sauce was quite garlicky. Yet we enjoyed our time and it’s a great find for Harvard square",4.0,46.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tiffany Capone,2023-04-21,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Noelle G.,2023-04-21,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kenneth Mallon,2023-04-14,The availability of menu items is hit or miss but it's delicious when they have everything. Limited drink menu.,4.0,19.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Les Seifer,2023-04-13,"What an amazing experience. Up from New York and heard this place was great. Did not disappoint. Incredible Venezuelan food, great service (our waiter was Caesar). Next time we’re in town this is a first stop again.",5.0,37.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Aude-Marie Alem,2023-04-10,"It is gem in harvard square,
+Food is super nice and service even more!",5.0,14.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Michael Luu,2023-03-26,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Spenser Peterson,2023-03-18,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,JUHI PAREKH,2023-03-16,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Shiran Soholitsky,2023-03-12,"Cute little restaurant on a sided street, feels like a family restaurant. I liked the design of the restaurant that felt very authentic.
+The food is delicious, very tasty empenda and steak.
+The only thing that bothered me was that I got the feeling that we were rushed to leave.
+We barely finished what was on our plates and served the bill.
+Besides that experience, this is a great place to eat, especially with family, in my opinion.",5.0,78.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Riva,2023-02-24,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,H,2022-02-05,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Richard C,2023-02-02,"Authentic, homey, delicious Venezuelan food. The environment is cozy and the staff is very friendly. Love bringing friends and family here.",5.0,21.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,P S,2023-01-30,"Cost little restaurant with absolutely amazing empanadas!
+
+The only catch with this place is that it closes too early.",5.0,19.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Maya Patel,2023-01-28,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Cameron Adams,2023-01-14,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Curt Raffi,2023-01-11,"Intimate, awesome and authentic... Tucked in a side alley right off of JFK Street in Harvard Square, Orinoco serves authentic Venezuelan food and serves it in an intimate and personal way. It's a perfect place to go on a cold winter's night to connect with friends and enjoy some wonderful food. Overall I rate the service and food an A-.",5.0,60.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kendell Clement,2022-11-30,Great food and not too crowded for lunch- the empanadas are the perfect lunch,5.0,14.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fermin Carrillo,2022-11-28,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jonathan Haws,2022-11-16,"Probably my favorite place to eat in the Boston area now. Amazing food, incredible service, and just a cool vibe. Love it!
+
+As I walked up, my waiter greeted me with a big smile and made sure I was taken care of at my quiet corner table. Couldn't have been more pleased with my dinner!",5.0,55.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,John Keefe,2022-11-15,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Felix Yang (Flxzy),2022-11-12,Great homey little place. Kinda a hidden little place with great arepas!,5.0,12.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Daniel Figueroa,2022-11-06,"Great food, amazing people",5.0,4.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Charles Vidoudez,2022-10-01,"The food is amazing, and the service is great, highly recommend",5.0,11.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Zidong Zhao,2022-09-09,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ellen,2022-09-03,"I don't have much useful things to add beyond what other reviewers have said/taken photos of. It's a cozy space with great service and amazing food. I got the arepas, ribs, and Cordero. Everything was delicious. If you're still trying to decide where to go for dinner, and you aren't veg, try it out.",5.0,54.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Best Genius,2022-09-02,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tim Sheng,2022-08-28,gorgeous Latino foods had off harvard campus! they are truly representing the culture and arts! must go there again.,5.0,19.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,NISHAT NYC,2022-08-25,"The food was good, but the man who was training a waitress was very rude. 3 of us went last Saturday, August 20th, 2022. We asked this person for menu and specials, he was very mean. It’s not a nice environment to have a mean server :(",2.0,47.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Marina Mozak,2022-08-18,"Good food, pretty place. But there was a really bad smell while we were there.",3.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Frances,2022-08-18,Solid place with a nice menu full of options. I loved the plantain appetizer! The steak was pretty dry unfortunately and I couldn’t finish it :(,4.0,26.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kaley Misiuk,2022-08-16,Just ate a work of art. Beautiful combination of flavors. Do not pass on this place.,5.0,16.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,César Rojas,2022-08-13,"Definitely one of the best places in Boston to eat, from the attention to the food, everything was fantastic",5.0,19.0,yes,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Riley Knebes,2022-08-12,We got the trio de empanadas and they were AMAZING! Will definitely be back.,5.0,14.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Julia Gooding,2022-08-11,"Deliciously flavorful arepas, empanadas, salads and mains. Was shocked it was so empty, but it is tucked away. Like treasure at the end of the rainbow, find the alley pathway to Venezuelan cuisine paradise in H Sq!",5.0,37.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dario Guerrero,2022-08-07,"Delicious food. It’s a more upscale restaurant, great for a date or to bring your work and chill out.",5.0,19.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Juan Jose Jaramillo,2022-08-02,"Overrated place,
+
+Food was not good. I came from Montreal and there is another Venezuelan restaurant and it's not comparable.
+
+- very small portions. You have to spend around 40$ to be full.
+- food is not good for what it seems.
+- they make you pay 20% automatically. They just put it on your bill without asking how much or any range.
+- long wait time to pay.
+
+I asked why they just add 20% and they told me for 6 persons it's like that unless you are extremely dissatisfied (15% tip) he even told me it's not a law but it's just like that in general. He did not even ask why we were all dissatisfied (all 6 of us).
+
+Very dissatisfied not worth it!",1.0,127.0,yes,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sharon Bao,2022-08-01,"Great food in a lovely little restaurant that's tucked away. I really enjoyed the empanadas and arepas. My favorites were the domino, mechada. Another honorable mention for me was the beet salad.
+
+They were super accommodating for dietary restrictions. Also, great bang for your buck! Definitely worth the visit!",5.0,49.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,A H,2022-07-31,Great food and environment. Lots of salad.,4.0,7.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,stephen bianchi,2022-07-29,"Food was amazing and very reasonably priced, look forward to coming back soon!",5.0,13.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rommel,2022-07-24,"I'm biased since I'm Latin American, but let me tell you. If you're looking to try authentic venezuelan/Latinamerican food, look no further. The Pabellón criollo (rice, black beans, pulled beef and plantains) is absolutely delicious; it's the real deal. The empanadas are great, flavorful. Would come again!",5.0,47.0,no,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,M C,2022-07-24,"I’m still dreaming of their shredded beef empanadas. Their food is flavourful, their employees are complete sweethearts, and honestly this is now my favourite spot in the area. I can’t wait to go back!
+
+Definitely give them a try, you won’t be disappointed!",5.0,43.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Steve Knowles,2022-06-26,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Corina Mier y Teran,2022-06-22,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alberto Espay,2022-06-18,"A hidden jewel of Venezuelan food in Boston. Everything I recall from my childhood, from the unique flavor of arepas and plátanos fritos, to the warmth of its people. It’s all there. I will return to Boston, if to dream I have returned to the flavors, colors, and passions of the Venezuela of my best memories.",5.0,56.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Edwar Patiño,2022-06-15,,3.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Malea Williams,2022-06-12,Food abd customer service was very good !,5.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ismail Gomaa,2022-06-10,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gunyeop Lee,2022-06-03,Portions are a bit small for the price but everything tasted really good and it was fun to try different Venezuelan dishes. Datiles and empanadas were my favorites,4.0,28.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Luis Morales,2022-05-28,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tobiloba Fagbule,2022-05-21,Bad service,1.0,2.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Raul Medina,2022-04-22,"Great food should always be paired with good service.
+Had Orinoco changed ownership recently?
+I had not been there since Pre-Covid and tonight's service was so disappointing.",3.0,27.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Adina Zhang,2022-04-04,Homey and cozy restaurant with great service and food.,5.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yann Camus,2022-03-24,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alex Epelde,2022-03-21,Good food if a bit pricey. At any rate the arepas were top notch.,4.0,14.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Seun Araromi,2022-03-17,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Z Xie,2022-03-13,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Anthony Pericolo,2022-02-17,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Burak ÖZTURAN,2022-02-11,Delicious Ribs and empanada with decent salad.,5.0,7.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Finn,2022-02-07,very nice food and service,5.0,5.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nick Hoffner,2022-01-29,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Valerie Park,2022-01-24,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fernando Mundaca,2021-12-26,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Inés Bescós,2021-12-17,The food is amazing and the service is the best. Definitely coming back!!,5.0,13.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Zev Minsky-Primus,2021-12-14,"Food is decent, but we got really bad service and then were forced to pay 20% in tip",3.0,18.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sabrina Nazario,2021-11-26,"Amazing food, real flavours and very god service",5.0,8.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Oliver Philcox,2021-11-25,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fiona Imami,2021-11-20,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kate Cialdea,2021-11-17,"Excellent food, delicious sangria!",5.0,4.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yolanda Bruno,2021-11-09,Food was excellent and their outside patio was lovely.,4.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Samuel Stock,2021-10-31,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Peter Blair,2021-10-30,The food and the vibe were excellent. The chicken and bacon wrapped dates are incredible as is the sangria! Great place for juat about any occassion.,5.0,26.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Chris C,2021-10-23,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jodie Fernandes,2021-10-23,"Never disappoints. Great flavor in every plate. The arepas are a little charred on the outside, with tasty fillings and always brought to the next level with a dab of their super garlicky mojo. The yuca frita came out crispy, hot and fresh. The costillitas were fall-off-the-bone tender and glazed in a sweet sticky sauce. I appreciate that the fried plantains still had some bite to it and weren’t overly ripened or mushy, but still sweet - perfect for the pabellón criollo plate. Lovely ambience on the back porch, a bit dimly lit, probably best for a date but great for literally any other occasion.",5.0,105.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Adrienne Groccia,2021-10-23,"One of the best restaurants in Cambridge. If you’re in a rush, this is not the place for you. The food and sangria were incredible. Friendly people. Romantic patio.",5.0,29.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Leslee Friedman (she/her),2021-10-16,"The fried yucca is amazing, lots of good veggie options, nice outdoor space, friendly service.",5.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrew Lam,2021-10-13,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Aj Thakkar,2021-10-11,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,TJ Engelkamp,2021-10-09,"In terms of arepas our favorites were 1. Pernil 2. Pabellon 3. Mechada. We tried all 8 of them and shared with a group of 4 and it was really fun, although you need everyone to be okay with sharing for this to work because they are not easily cut in 4ths.
+
+The sangria pitcher is totally worth it! It's an incredible blend of wine, fruit, and cinnamon flavors that are out of this world. We also ordered the bacon wrapped dates, and they could score you a second date if you're lucky. Mileage may vary. 5 stars.",5.0,98.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Aldrin Castro,2021-10-09,Buena comida venezolana,4.0,3.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matt Daum,2021-10-08,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matt Neslusan,2021-10-08,"A fantastic spot for elevated Latin cuisine. They have the typical staples, but also have dishes that go above and beyond. Nice but casual inside, and intimate outdoor seating in the back on a quiet patio that’s removed from much of the Harvard square street noise. Small but suitable drink options: beer (2 kinds of Latin laggers), wine, and sangria. No hard alcohol, but no big deal. Service is very friendly.
+
+Surprisingly for a Latin place, my biggest recommendation is the baby back ribs. They are hands down the best I’ve had in the Boston area (and I’m a bbq guy). The sauce is so delicious and complex. Also, the chicken in the Parrilla Caraqueña was so moist and delicious. My girlfriend and I loved it.
+
+A word of caution - if you sit outside in the back there’s a chance you may see a furry friend or two. Nothing to be worried about, but a fair warning. No fault of their own, as it’s a problem in the Cambridge/Somerville/south Medford area.
+
+FYI - Pics taken by candlelight.",5.0,178.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Shivani Rawat,2021-10-03,Great food and host!,5.0,4.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pravi Samaratunga,2021-10-02,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fabian Camilo Pastrana Cruz,2021-10-02,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Karen González,2021-09-19,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nina C,2021-09-15,,2.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tanay Padhi,2021-09-15,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Luisa Pineros,2021-09-07,"Orinoco has been my go-to place when I need a taste of home while living in Boston. You cannot go wrong with any items in the menu - my favorite are the cheese empanadas and the pabellon criollo. Yum!
+
+I would also like to thank Martha and Andres, the managers, who were very quick and professional at providing amazing customer service and understanding after we had a bill mishap when I went to the restaurant with some friends recently. Can't wait to be back!",5.0,84.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Daniel Zheng,2021-09-08,"My entire party agreed that every dish was exceptionally well-seasoned. We ordered Pabellon Criollo (our waiter's favorite) and Cordero lamb chops. Reasonable portion size for main entrees. Staff were personable. Overall environment was nice: soft music, outdoor patio, secluded entryway. I'm fact, entrance isn't the easiest to find. Look for a black arch fitted into an alley between two buildings.",5.0,60.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kevin,2021-09-01,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Danilo Sirias,2021-08-27,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tatiana Diaz,2021-08-25,The food was delicious but the rats were a big problem for me. I haven’t been to harvard square in years so dont know if this is the norm but there were multiple rats crossing the patio under the tables. Couldn't have been a one time incident because they were very comfortable being surrounded by humans and it wasn't even dusk yet. Will try the Brookline location but will never go back to this place.,2.0,75.0,yes,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Chris Karavoulias (BostonGreekGeek),2021-08-08,"The food was amazing, the wait was short for outdoor seating, (they had indoor seating available, but we don't eat indoors these days)  and our server was great, however the wait for our dishes was insanely long. If it weren't for the food this place wouldn't be getting 4 stars. They had a large table to serve and they said that was the reason for the delay but even a packed restaurant is not a good reason for delays. I have worked as a waiter at 30 different restaurants and know that you have to be ready for busy days. Fortunately the food was great and if it came fast I'd say 5 stars for me. I would definitely go again, I just hope they aren't very slow next time.",4.0,130.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pj Folwarski,2021-08-07,Great food and normal portion sizes,5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Christina “Tina”,2021-08-05,Fantastic Venezuelan food!,5.0,3.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sean Essex,2021-07-25,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Melissa Minaya Wilson,2021-07-21,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,sna sarm,2021-07-21,The food is alright long waits and a lot of things out of stock I expected better,3.0,17.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Eduardo Saverin,2021-07-16,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nary sarm,2021-07-14,Some plates on the menu was out of stock decent place but my expectation wasn't met,3.0,16.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nelly,2021-07-01,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andy,2021-06-30,Visited for the first time yesterday and it was amazing food! Loved the ribs and empanadas and shredded beef.,5.0,19.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,John Juices,2021-06-25,"This place is SO nice!!! A beautiful backyard patio, great service, and AMAZING arepas. It's a beautiful option and probably my most favoritest upscaley fancy-style food option in the area. My roommate loves this place. Try all the different arepas for a special reward.",5.0,44.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Anish Pimpley,2021-06-19,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Xavier du Maine,2021-06-03,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ankit Shah,2021-05-31,"Really good margaritas, great food, and service.",4.0,7.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Esteban Garcia_Brouillard,2016-10-12,"Great arepas, Great service!!! I love this place !!!",5.0,9.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sarah Kramer,2021-05-20,"Just had a lovely lunch in the back courtyard and can't wait to go again! The fountain and overhanging trees give it a lovely atmosphere with plenty of shade, and it was great to eat outdoors without being right next to a street. The salad with hearts of palm and bacon-wrapped dates was excellent. The server was warm but didn't rush us. Altogether a great experience.",5.0,66.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tushar Bahl,2021-05-15,"Came to visit this restaurant with some friends for the first time on 5/14/21. The food we had was good. I ordered the La Primera burger, which I really liked, and tried some of the steak, which I enjoyed even more. However, the experience was not great.
+
+Our server took our order at 8:50pm, the ticket went in at 9:03pm, and the food came out at 9:45pm. They also forgot one of our sides, but prepared a new one within 10 minutes once the mistake was pointed out. It just wasn't busy enough for the food to take this long and for there to be mistakes.
+
+There was a 20% gratuity automatically added to our check. The wait staff was pretty nice, but they also took time to get to our table, and the food wasn't THAT great where the wait was worth it. I wouldn't have tipped that much because of the wait, I wanted to leave before I was even done with my meal. Can't recommend.",3.0,168.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Wayne Callahan,2021-05-03,Wonderful food and service.,5.0,4.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sejal Aggarwal,2021-04-19,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Monica,2021-02-26,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Lara Teich,2021-02-21,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,James Collins,2020-11-11,Fantastic good and great patio in back.,5.0,7.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pamela MacShane,2020-11-05,Very delicious food and warm atmosphere.,5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pilai W,2020-10-13,"I was there on Thursday night. I met the lady at the front deck she was friendly and polite. I ordered date wrap with date and almond, flatbread oysters mushroom,baby rib, chulete Wonderful dinner,",4.0,34.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Melinda Fitzpatrick,2020-10-12,"Unique, delicious dishes",5.0,3.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jonathan Hearn,2020-09-03,"My pet shark usually only likes seafood, but he goes into a frenzy for these Arepas!",5.0,16.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Emily Bondaruk,2020-08-11,"Great food. Took away a start because the arepas were different than last time I got them at a different orinoco location a few years ago, and I didn't like the style as much",4.0,34.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ana Rodriguez,2020-08-22,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Manuel Gama,2020-08-19,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mark Fletcher,2020-08-16,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Charles Selk,2020-08-12,"Normally I’m hesitant to boost my favorite places that are already crowded, but in 2020 even the best restaurants are struggling. I ordered takeout on the Toast app (Toast supposedly lets more of your money to get the restaurant). You can also order in person with quick turnaround, and it looks like they’re outside seating is open at the Harvard location. So much amazings on the menu, my favorite are empanadas, arepas, and cachapitas. Also, most years I don’t eat meat but Orinoco is on my very short list of places I’ll occasionally carnivore.",5.0,94.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matt Freda,2020-07-29,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Michael Winn,2020-07-26,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Akiesha Ortiz,2020-06-22,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sergio piche,2020-04-03,,1.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Maharshi Bhattacharya,2020-03-14,This gets as close to the ones I had in Bogota in Colombia. Presentation and taste on point!,4.0,18.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matthew Partlow,2020-03-11,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Seong Hwang,2020-03-08,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Georgia,2020-03-06,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Estefanía Sánchez,2020-03-03,Delicioso con muy buena atención y variedad de platos,5.0,9.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Piroz Bahar,2020-03-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Laura Feeney,2020-02-29,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dany Villafuerte,2020-02-23,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jennifer Lee,2020-02-21,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Vidula Khanduri,2020-02-19,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Guillermo Calves,2020-02-16,"Good Latín food but when we went for an early dinner right after it reopened, restaurant was very cold and food was lukewarm.  Should turn up heat and stove on time.",3.0,31.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dean Swann,2020-02-15,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Joaquin de la Maza,2020-02-13,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sydney Hoi,2020-02-13,Overall I had a great experience! The meats were slightly overcooked/dry but still good nonetheless. Would still recommend.,4.0,18.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tyler Spilhaus,2020-02-12,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dario Dé Santiago,2020-02-12,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,María Rodríguez Fernández,2020-02-02,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jon Burger,2020-02-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jay Yorenvy,2020-01-29,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matt McGrail,2020-01-15,Phenomenal place for traditional food. Fresh ingredients. I would recommend going there earlier in the day and getting the arepas that the make fresh every day. Yucas fritas also shouldn't be missed. I wish they would sell the sauce that it comes with.,5.0,43.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,James Smith,2019-12-24,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrew Seeber,2019-12-13,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,M,2019-12-12,Good food. Good atmosphere. Entrance in the alleyway.,5.0,8.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Silvio Memme,2019-12-11,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Raymond Belhumeur,2019-12-08,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kwontae You,2019-12-08,"It can be one of my list, first time to enjoy Latin food in Boston.",4.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pietro Leoni,2019-12-08,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Bernardo Perez,2019-11-30,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,violeta queipo,2019-11-28,Very taste  nice service  nice little place,5.0,7.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Maximilian Pschorr,2019-11-27,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Josep Valls,2019-11-20,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,William Mahoney,2019-11-20,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Lourdes Vivanco,2019-11-17,Prices a little high for a college student but great portions!!,5.0,11.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Carolynn IANELLO,2019-11-13,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rahil Ukani,2019-11-11,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kyle Newell,2019-11-08,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,S RT,2019-10-23,Delicious food and great service with excellent location near the Harvard campus. We visited for lunch and ate outside to enjoy the warm weather,5.0,24.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,RMM,2019-10-21,"Good venezuelan food, somewhat pricey but the tequeños were delicious!",4.0,10.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,B Yung,2019-10-21,We came here for lunch and really enjoyed the food. The arepas were very tasty and filling. The tostones were cooked really well. I will definitely be coming back.,4.0,29.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alejandro Lepervanche,2019-10-12,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,David Ricardo,2019-10-10,"Orinoco was good, but other restaurants are better.
+
+The entrance was a wrought-iron ivy gate, and passing through felt like discovering a secret world. Inside this small restaurant, the decor was thematic, and the cramped seating, though uncomfortable, fit the indie aesthetic.
+
+I ordered the grill plate, which came with steak, chicken, and chorizo for $26. All three meats were good enough, but ""good enough"" doesn't deserve five stars. Especially not with such underwhelming service.
+
+Orinoco has the misfortune of being a good restaurant surrounded by great ones. For hole-in-the-wall charm, I'd go to Pinocchio's Pizza or 9 Tastes Thai, both on the same block and at a lower price point. For great food, I'd go to Park, just across the street. Orinoco may be good, but not good enough to go back to.",4.0,134.0,yes,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Michael Els,2019-10-08,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alfred Naayem,2019-10-06,,2.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kim M,2019-10-04,Authentic food! Everything was so good.,5.0,6.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jagat Adhiya,2019-09-29,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Camila Gascon,2019-09-28,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Carlos Restrepo,2019-09-22,"Delicious food and good taste of music. The restaurant is kind of cozy, specially if you are latino",5.0,18.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Douglas Barrios,2019-09-21,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Eric Robinson,2019-09-20,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ellie B,2019-09-15,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Anna Jones,2019-09-15,"There's a secret entrance to magical land of  food. Everything we tried was delicious! The staff was great, the atmosphere was perfect, and the food was a ten! If you haven't been to Orinoco you're missing out!",5.0,37.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Manny Ramirez,2019-09-13,BEST SANGRIA in Boston! Amazing staff and amazing food. It shows they care.,5.0,13.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Adrian Ballou,2019-09-07,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Karen Wickert,2019-09-06,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yevgeniya Maryash,2019-08-28,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Marta Pérez,2019-08-23,,3.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alison Kan,2019-08-22,"Came here as a stop on the Off the Beaten Path Food Tours of Harvard Square and for Sunday Brunch. We tried the Datiles (bacon wrapped, almond stuffed dates), Maracuchitos (cheese wrapped in sweet plantains), Chicharronada arepa (stewed pork stuffed arepas), Cachapa Pabellón (corn pancake stewed shredded beef, black beans, plantains, and cheese), and Flan. Everything was delicious and pretty good portion sizes for the price in my opinion. Servers were super nice and they have inside and outdoor patio seating as well.",5.0,83.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Brandon Prickett,2019-08-21,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jagruti Desai,2019-08-20,Really good food,4.0,3.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yoseli Marin,2019-08-20,Best arepas in Cambridge!,5.0,4.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Inês Carvalho,2019-08-20,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rebecca Vorwald,2019-08-19,"So glad we stumbled upon this gem!!! A beautiful open garden dining area. Excellent staff!! The food was SO authentic. The flavors, amazing!!!!!! Do stop, if you're near. You'll be glad you did!!!!!",5.0,33.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,M,2019-08-18,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,mark oriakhi,2019-08-18,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Marco Mariotti,2019-08-17,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Josh Paredes,2019-08-16,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Laura Decker,2019-08-12,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrew Morrish,2019-08-11,Cafe,3.0,1.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,nuria pairo castiñeira,2019-08-04,"Food is delicious! I would recommend ""costillitas""",5.0,7.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,George,2019-08-03,"While their name sounds more like a gas station, this is a cool little South American eatery tucked in an alley of Harvard Square. They have a diverse menu of a variety of arepas, empanadas, pepitos (sandwiches), and principales (main dishes). Many of these menu items are very authentic South American dishes that you would be hard-pressed to find in any other restaurant.
+I personally would recommend sticking to the pepitos and principales, since I've found to be very wholesome and well thought-out plates. The empanadas are served with a central salad presentation and can be a bit dry and heavy.
+For filling a rare culinary niche in Harvard Square, I would score the place 5 stars, but it can be challenging to get seats (no reservations) and their sometimes rather brusque service detracts one star.",4.0,136.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Prapti Patel,2019-07-27,"The staff was friendly and service was fantastic. Plenty of vegetarian options for us to try. The arepas, empanadas, salad, and starters were delicious, and don't forget to ask for their amazing hot sauce!",5.0,34.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,DanThuy Chu,2019-07-25,"Solid, fun place to eat! If the weather is nice, sit out back at their cute tables. I've been here two or three times and the service is always relatively fast. They have a good selection of food to share as appetizers. I love their bacon wrapped dates and the flatbreads are decent. Their arepas are pretty good as a meal too.",4.0,62.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jonathan Che,2019-07-24,Solid spot for a wide variety of interesting dishes. Nice outdoor seating area in the back,4.0,16.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Galen Lynch,2019-07-23,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Lindsey Morrow,2019-07-21,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,amitha reddy,2019-07-21,Food was delicious and flavorful. Friendly service.,5.0,7.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Adam Schettenhelm,2019-07-21,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jade Nguyen,2019-07-20,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Steve Wakeland,2019-07-13,Great meal and a wonderful bottle of Malbec.,5.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Katie Stuempfle,2019-07-09,"AMAZING food! This place does not take reservations and they will not seat you until your whole party has arrived. We were a group of 6 and only waited 5 minutes to be seated once our party arrived. (Note: it was a Wednesday night) We had the plantain wrapped cheese and bacon wrapped dates for an appetizer, both delicious. A group of us split an assortment of empanadas and arepas and they were incredible. I would not recommend splitting an arepa, it is difficult to cut. The empanadas come cut into 4, with a nice salad in the middle.",5.0,99.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Daniel Quevedo,2019-07-08,"Sooo good! Went here for lunch and had the beef empanadas. It came played with a hearty portion of delicious salad, and the empanadas were well seasoned and freshly made. The wait staff was also very friendly. 10/10, would go again",5.0,41.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ari Jaffe,2019-07-05,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,C S,2019-07-05,Sandwiches are delicious,5.0,3.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Chiara Maffei,2019-07-03,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jolt Hammer,2019-07-01,This was a fun place to eat.  Lots of types of tasty dishes I've never heard of before.  Very polite waiter as well.,5.0,23.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Anne Schaffer,2019-06-30,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Francisco Alonso,2019-06-23,"Delicious, low key with a terrace place",5.0,7.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sebastian Cuartas,2019-06-23,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Arden Kurtjian,2019-06-21,"While visiting the Boston area, took a chance based on Thrillist review of restaurant. And it didn’t disappoint. Great food, service and the best homemade hot sauce I’ve ever had!!!
+
+The empanadas were fantastic and so was the grill mix. Highly recommend for anyone in the area looking for something unique to the area and a great dining experience with friends.",5.0,61.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nicola Molinari,2019-06-20,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nakul Kadaba,2019-06-15,"Great Venezuelan food! Definitely recommend the chicken adobo and any of their arepas. Service is quick, and their location in Cambridge has a cool outdoor patio area for you to eat and drink outside, which in Harvard is tough to find. Definitely would visit again!",4.0,45.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Christopher Ruszkowski,2019-06-14,Try the steak.,5.0,3.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Seth Heirtzler,2019-06-10,"It's kind of hidden,( my group was looking for it and still walked past it) but the food is unbelievably good, I can only speak for the arepas but they were delicious",5.0,32.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Oren Danieli,2019-06-07,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Xqua Xqua,2019-06-06,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Guadalupe Fernandez Milmanda,2019-06-01,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Manish Kandpal,2019-05-26,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dana Bullister,2019-05-24,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Grace Young,2019-05-18,"I've been here a number of times over the years, but the quality has definitely gone down. I always order the Orinoco salad ($9.50), which has grapes, greens, toasted almonds, and chicken, without onions and with dressing on the side. My friend and I also got the fried yuca side ($5.50) to share. For whatever reason, the yuca was cold and stale already by the time it got to our table. The chicken on my salad was tougher than leather. Sweetgreen makes a better salad. The wait for the food to come out was also extremely slow; I don't think that their kitchen is staffed to accomodate the higher than usual number of customers today. They do however have a large patio area that is pretty nice to sit in on a warm day.",2.0,134.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrea Amanda,2019-05-11,:) sabroso,5.0,2.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Francisco Ruiz,2019-05-10,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Liz Moreno,2019-05-10,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Allison Matthews,2019-05-03,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Irene Ros,2019-04-29,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Eric Kolibas,2019-04-24,"Cool little spot and nice atmosphere, food was delicious!",4.0,9.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Anna Gronert,2019-04-23,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Benjamin Staffin,2019-04-22,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Asher McGuffin,2019-04-22,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jerrod Burns,2019-04-20,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matthew Fuller,2019-04-19,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,carlos cañez,2019-04-17,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mike K,2019-04-16,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Benjamin Carl Egerod,2019-04-12,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Brian Brooks,2019-04-07,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ben,2019-03-31,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ana Escudero,2019-03-27,"Great Venezuelan food, at least as attested by experts.
+The prices are reasonable and the staff is friendly. You also have enough choice for vegetarians and vegans, as well as a wide drink menu.
+The decoration tops it up allowing you to escape the brick-filled landscape of Cambridge to a more exotic place.",5.0,53.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,James Zuger,2019-03-25,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alex Gaman,2019-03-24,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Julie Bovenzi,2019-03-15,Delicious food- fun atmosphere.....service was very quick.,5.0,7.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jaice Cooperrider,2019-03-11,"The food is decent, but the prices are high for the portions given and the dining area is a bit cramped",3.0,21.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jo Vieira,2019-03-11,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Benjamin Martinez,2019-03-09,Excellent food and service. Not one complaint,5.0,7.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Peter Karkus,2019-03-08,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rory Bourdon,2019-03-06,"Food was excellent, service was good. Nice atmosphere.",5.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alberto Romero,2019-02-23,This place has so weird hours. They will close on your face at 1:45 pm like nothing. Has happened various times. Never going back.,1.0,24.0,yes,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Joshua Smalley,2019-02-23,Fantastic food and wine in a cosy setting,5.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kevin Swenson,2019-02-17,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Haziq Jeelani,2019-02-15,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Lizette Yamile Pizza Becerra,2019-02-15,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,V Martell,2019-02-11,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tim Noetzel,2019-02-11,Fantastic Venezuelan food in Harvard Square,5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jess,2019-01-30,"No soy experta en comida venezolana, pero la comida me pareció muy buena! Las costillitas deliciosas y una porción es ideal para dos personas.",5.0,24.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tanya M. Cascarano,2019-01-29,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yuliana Velasco Hernandez,2019-01-29,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,박지영,2019-01-23,"Venezuela cuisine is very rare. This was a good experience. I don’t remember the name of the dishes, but the potato dish is really good. I love the white sauce on it!!!",5.0,32.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,João Victor Cardoso Kdouk,2019-01-17,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yu Hu,2019-01-10,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sherley Boisvert,2019-01-05,,1.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Arthur Daraujo,2019-01-03,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Los Angeles,2018-12-30,"This place was pretty good.  The empanadas, mechado, and ribs were well prepared. The meat sampler plate was decent. The server was nice.",4.0,23.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Heather Lane,2018-12-28,"Cozy place tucked into a hidden corner of Harvard Square. Delicious Venezuelan cuisine and excellent service in a warm atmosphere. The hand-made cheese arepa we split for appetizer was flavorful and toasty and cooked precisely right. My chicken adobo was tender and lightly spiced and paired with an intensely flavorful gnocchi in truffle cream sauce. My wife's salmon and quinoa dish was delicious, with a complex medley of flavors. The waiter was attentive and was able to guide our Jewish friends to dishes compatible with their kosher. Overall, a delightful experience - will definitely go back.",5.0,96.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alvaro Arias,2018-12-28,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mr. Remy,2018-12-24,Great,4.0,1.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ben Struhl,2018-12-24,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Steve Newman,2018-12-19,"Friendly, efficient service, and an excellent portobello arepa!",4.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mike M,2018-12-15,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Celeste Finn,2018-12-11,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sharyn Lincoln,2018-11-25,Food was amazing. Everything we had was delicious. My brother and sister in law have been raving about Orinoco for months and it totally lived up to the hype. Can't wait to go back!,5.0,34.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Estefania Hernandez,2018-11-25,,4.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ryan Lothian,2018-11-22,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrei Negut,2018-11-18,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,R B,2018-11-15,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Josh,2018-11-12,Food is very good but slightly expensive. Good for a special occasion.,4.0,12.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alexandr Lazarenko,2018-11-12,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Cesar Muziotti SJ,2018-11-04,no muy venezolano...sólo el mesero (muy buena gente por cierto) lo era.,2.0,12.0,yes,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Hyunkyung Ryu,2018-11-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Joseph Modugno,2018-10-23,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Robert Bourque,2018-10-21,"Baby back ribs meat falls off the bone, Delicious",5.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kotaro Taniguchi,2018-10-21,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ryan Nebeker,2018-10-21,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Enrico E. Manalo,2018-10-18,"Food: arepa pernil, trio de empanadas, parillo caraqueña
+
+I love this place for affordable, shared plates. The flavors here are amazing and the arepas and empanadas go so well with the mojo.
+
+The parillo caraqueña is great variety of meats and flavors, plus it comes with fried yuca, which I love.
+
+My favorite location is the Harvard Square location as it’s set back from the street and is a bit more intimate. Great service!",5.0,74.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Chuck Bunting,2018-10-14,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dan McNamara,2017-03-05,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Robert Emery,2018-10-13,Sangria was amazing! Get the empanadas trio to start,5.0,9.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nicole Harris,2018-10-05,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,James Lu Morrissey,2018-10-03,Best lamb chops out in Boston,5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alane Schmelkin,2018-10-01,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Po Samutpraphoot,2018-10-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Leo S,2018-09-30,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kathryn Stewart,2018-09-29,Awesome atmosphere,5.0,2.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Leo D,2018-09-28,Weekend’s menu is limited. Never has the options we are looking for. Portions are small.,3.0,15.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Esther Miller,2018-09-28,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yuri Rdz,2018-07-12,"Great food, the best service... The sangría was awesome",5.0,9.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nicholas Natrin,2018-09-16,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Simge Topaloğlu,2018-09-15,"Average food, and too pricey even by Cambridge standards.",2.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Miruna Cristus,2018-09-11,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Beatriz Carramolino,2018-09-10,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Aavishkar Patel,2018-09-08,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Katherine Emley,2018-09-05,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nimit Shah,2018-09-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Richard Thornton,2018-08-29,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sara Moorman,2018-08-25,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ana Luiza,2018-08-24,Comida boa. Bom atendimento!,4.0,4.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,jonah adler,2018-08-23,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jakub Młynarczyk,2018-08-23,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alan Uomoto,2018-08-20,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Carrie Cleveland,2018-08-18,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fanuel Muindi,2018-08-10,The salmon is pretty good here! Awesome service and location.,5.0,10.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Damon Miller,2018-08-05,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Noah Bilgrien,2018-08-05,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Thanya Rajkobal,2018-08-04,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Peter Leoni,2018-08-03,Lamb chops yessss,5.0,3.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Amy Gill,2018-07-31,Everything we tasted was phenomenal. We will definitely be back soon. It's cool to duck into the entry and be in a private area off the street too.,5.0,28.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jason Carte,2018-07-31,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jesus Ballesteros,2018-07-30,,3.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,J Garrett,2018-07-28,Wow!,5.0,1.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mehdi Goudarzi,2018-07-26,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,GTS,2018-07-22,Excellent South American food. Service could use some improvement.,4.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Cynthia Garcia,2018-07-22,Riquísimo todo,5.0,2.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Siawosh Eskandari,2018-07-19,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Samantha Toohey,2018-07-19,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mostafizur Rahman,2018-07-15,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Natasha Maree,2018-07-15,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kyle F.,2018-07-14,"Went here alone and was seated by the hostess instantly, then ignored for over 15 minutes. It was not a packed place, I watched a few other people be seated, get waters, and order, and no waiter ever even acknowledged me. I left and nobody said a thing.",1.0,48.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,J Garcia-Gallegos,2018-07-12,Excellent Venezuelan cuisine,4.0,3.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Elana Castiglia,2018-07-12,"Absolutely delicious food, many options and you can't go wrong with any of them! The outdoor patio is also a gorgeous place to sit and feels very secluded despite this restaurant being right in the bustling Harvard square. The staff was friendly, but a little slow to bring out water, we had our appetizer before we had anything to drink. However the food and atmosphere certainly make it all worth it",5.0,71.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Toni Rose Agana,2018-07-08,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Abigail Anderson,2018-07-05,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matthew Waddington,2018-07-04,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,James Lyon,2018-07-04,"Amazing, deliscious food. The pork chorizo burger was fantastic. The fried plantains were sweet and very well caramelized. We enjoyed every part of our meal and can't wait to come back.",5.0,31.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Monika Parks,2018-07-01,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Terri Watts,2018-06-30,Great Venezulano restaurant.  Authentic flair.,4.0,5.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Hojin Choi,2018-06-30,Food was great here and definitely worth the trip!,5.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Daniel Minty,2018-06-24,"Amazing food with range of options and prices. The ambience is outstanding, whether it be a cocktail with a friend or a romantic date.",5.0,24.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Lisa Battiston,2018-06-20,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Yasmine Hassan,2018-06-17,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sergio Nieto,2018-06-16,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alessandro Peticchia,2018-06-16,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Marcos Novais,2018-06-15,"Very good place, I have a great time there.",5.0,9.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Samuel Benzaquen,2018-06-14,Always great,5.0,2.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Curtis Salata-Hartman,2018-06-14,"Great food, very well prepared.  Meat heavy but vegetarian options available.  Empanada trio a must.  Good prices for Cambridge as well which tends to be $$$.  Also nice South American wines to complement.",5.0,33.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrea Cafarelle,2018-06-11,arepas are wonderful.  costillitas starter is sooo goood.,5.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gustavo Sarmiento,2018-06-02,"Para empezar el local bastante bonito con adornos típicos venezolanos máscaras de los diablos de yare, totumas pintadas, sillas rusticas, la atención es algo que no voy a profundizar solo diré que es promedio, ok lo fuerte la comida pedí un pelua algo muy típico en el ámbito nocturno en Caracas y en muchas zonas del pais la cual consta de carne mechada y queso amarillo, la carne muy dulce en realidad creo que se les volteo el azucar, el queso mucho que desear por cierto aquí se consigue muy buen queso, la arepa muy pequeña en realidad, los tequeños acompañados de salsa de tomate eso no pega por lo menos una salsa de ajo, o de peregil mucho que desear de los restaurantes venezolanos este es uno de los de menor calidad en su comida y atención ahh por cierto no Vi ni un venezolano jajajajaja pero muchos hablaban colombiano es weird esta es mi primera reseña de un restaurante venezolano...",3.0,162.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kali den Heijer,2018-06-01,"The arepas are delicious but you'll probably need to order two. And don't miss the bacon-wrapped dates! They open at 12:00 on the dot, so there's a small rush at 12:00 when everyone gets in and orders. There's an outdoor patio if the weather is nice.",4.0,46.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Aiysha Alsane,2018-05-31,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kyo To,2018-05-28,Good location:),4.0,2.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rudi Batzell,2018-05-27,Great food in relaxed environment.,5.0,5.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nick Bartley,2018-05-24,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Elsa McLaughlin,2018-05-24,"Hard to find unless you know it's there. Small, intimate with cheap prices and fantastic food.",5.0,16.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nataliya Semenchuk,2018-05-19,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rajat,2018-05-19,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Set,2018-05-17,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alex Crea,2018-05-16,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,John Moukad,2018-05-14,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jane Doe,2018-05-14,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mou Banerjee,2018-05-11,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Cristian Vasile,2018-05-09,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,George Chrisafis,2018-05-06,Specialty Venezuelan food. Great service and great food. Moderate prices. Relaxed atmosphere.,4.0,12.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tanmoy Barua,2018-05-04,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Cristian Vasile,2018-04-28,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ricky Shaffer,2018-04-24,"great food, reasonable prices, fun environment",5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrew Sterling,2018-04-22,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Matt Bass,2018-04-19,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Michelle Leppek,2018-04-18,"Our waiter was great, and made helpful recommendations of the menu. I especially liked the Mechada Empanada - the empanada and the salad it is served with is a great balance. Great atmosphere as well!",5.0,35.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Stanley Noble,2018-04-07,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Marcela Valderrama,2018-04-02,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Nataly Kruh,2018-04-02,Loved the portobello arepa. Wish they had more vegan friendly food,4.0,11.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Richard Friedman,2018-04-02,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Emily Savelli,2018-03-31,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pierce Liefeld,2018-03-27,"Come with a big appetite, and order less than you think. Great small plates and authentic flavors.",4.0,17.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Reuben Hussmann,2018-03-27,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Priscilla Harcourt,2018-03-24,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Wesley N,2018-03-22,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sang Kim,2018-03-12,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Thư Nguyễn,2018-03-09,"Hidden gem. The food is always good and the atmosphere is super cozy, romantic but classy",5.0,16.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kyle Pilachowski,2018-03-01,"Probably the best restaurant in terms of quality for a quiet night with absolutely delicious food! The menu is mostly in Spanish but the descriptions of the food are in English, and it is very cultural—would highly recommend the almond-filled dates and fried plantains with cheese. As a main, I got the ribs (which were fall of the bone yummy) and my date got the lamb! Probably some of the best food I've ever had in and around the city of Boston!",5.0,82.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,sundaresh shankar,2018-02-28,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,David Pelaez,2018-02-25,"Prices have increased lately, still a good place to eat arepas, pernil $7, pelua $7 and mechada $6.75 would be my favorites.",4.0,22.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Elle Revett,2018-02-24,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mary Dempsey,2018-02-24,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jeff Hyer,2018-02-21,Excellent service and wonderfully-different food. A quick walk from Harvard Square.,5.0,11.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Casey Andrews,2018-02-18,AREPAS!,5.0,1.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Amidou Na,2018-02-16,Great food nice service,5.0,4.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kate Looby,2018-02-09,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mark T,2018-02-08,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Adham El-Batal,2018-02-07,"Very yummy Venezuelan fare. Their dishes are rustic but very flavorful. Great steak, great empanadas. Their flavors always sing in my mouth. The only issue I have is the limited drinks menu. It feels like a missed opportunity overall.",4.0,39.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Evelyn lopez,2018-02-06,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Camden Rolt,2018-01-30,Definitely overpriced for the amount of food. Small plates is really a trendy way of charging the same amount for less. Meal was pretty good otherwise. I wouldn't recommend as there are better options around.,2.0,35.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jordi Albornoz Mulligan,2018-01-27,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sandra Smith,2018-01-24,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Joe Wamstad,2018-01-19,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gerardo Garcia Contreras,2018-01-01,,5.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Maru Vazquez Rivera,2018-01-01,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Minhazuddin Mohammed,2017-12-31,My words won't do justice the pure joy and delight I experienced eating dinner here. Staff are also very accommodating and attentive. So go check it out.,5.0,27.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,negrigri .... Peraza,2017-12-31,"Pedí dos arepas estaban recalentadas no estaban frescas  con muy poco queso amarillo , I’m asked for 2 arepas  was overheated no fresh  they put him very little of yellow cheese 👎👎👎👎👎👎👎👎  LE FALTA MUCHO PARA SER COMIDA VENEZOLANA PUDIERAN DAR MÁS",2.0,42.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,sabrina cornelio,2017-12-28,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kate Silverstein,2017-12-25,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fernando Irarrázaval,2017-12-15,"Great restaurant. The tequeños, the Arepas, and the Pabellón Criollo are very good. Excellent service (they speak Spanish too).",5.0,19.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Duncan O'Brien,2017-12-13,Probably the most underrated restaurant in the Square. So good!!!,5.0,10.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Heverton Dutra,2017-12-06,Amazing food. Tastes like home.,5.0,5.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andy Gill,2017-12-06,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Devika,2017-11-26,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gilberto Alejandro Álvarez Canales,2017-11-23,I felt at home there! the food is delicious and excellent service,5.0,12.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Juan Arias,2017-11-23,Excellent food. Beautiful setting. Excellent service.,5.0,6.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Isidro Guardarucci,2017-11-22,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Douglas Perrin,2017-11-20,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Juan Arias,2017-11-15,Great authentic Venezuelan food and great service,5.0,7.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Khalid Shalaby,2017-11-15,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gregory Merchel,2017-11-12,"Best brunch in a long time. Since it’s off the path it also isn’t as busy as the other restaurants in Harvard. You SHOULD go here, it was delicious. Midianoche was fabulous  but the cachapa con chicharron was the best. Love love love the empanadas and will definitely be back.",5.0,50.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Isaac Brown,2017-11-07,"I'm fine with paying 28 dollars for good pork chops, but these had all the texture and flavor of a grilled, greasy tire glazed with apple sauce. Barely any flavor or seasoning. Venezuelans should be outraged at having their cuisine represented so poorly with a rubbery slab of disappointment. A pity too, because their appetizers really hit the spot.",3.0,59.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sai M,2017-11-06,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Domingo Fortuna,2017-10-28,,4.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Old Philip,2017-10-06,Friendly staff and great atmosphere. The lunch menu is also a great value.,5.0,13.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jean-Marc Goguikian,2017-10-05,"Very poor quality Venezuelan food. Crappy service with automatic 20% tipping (for our party of 6). They pre cook the arepas and serve them lukewarm. They're not even crunchy on the outside. Worse, they don't even take out excess dough from inside the arepa just so they can save on fillings. Some dishes are pretty americanized (heart of palm salad with blue cheese? seriously?). Come on guys! Get it together. Venezuela deserves better representation and you know it. Stop cutting corners and present venezuelan food as it is meant to be presented.",1.0,92.0,no,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Samantha Toohey,2017-10-05,The lamb was to die for,5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rama Krishna Boyanapalli,2017-09-27,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tania Marquez,2017-09-23,Great food and great service!,5.0,5.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ryan Berdeen,2017-09-23,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Luis MP,2017-09-22,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Don Giambastiani,2017-09-19,Heaven,5.0,1.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mark Bennett,2017-09-15,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mairead Lyons,2017-09-14,"Orinoco is one of my favorite spots in Harvard Square for a quiet, intimate dinner. It is tucked down an alley right on JFK street. It has a beautiful patio for outdoor seating during the warm weather. Their food is always delicious, from their small plates and empanadas, to their main courses of pork chops or shredded beef. This is one of my boyfriend and I's favorite place for a weeknight or weekend dinner when we're not sure where to go. Definitely recommend Orinoco to those who love authentic Venezuelan food and enjoy a quiet setting. The wine selection is also great.",5.0,102.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,MARIA PEDRERO,2017-09-10,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Timothy Mallen,2017-09-07,The food was delicious.,5.0,4.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ron Paul Should'a Bean President,2017-09-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Annie Jang,2017-08-30,Love this place! The cheese is so delicious.,5.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Christopher Williams,2017-08-22,"Good variety of well-seasoned food, in a cozy atmosphere. Friends from Canada/America and family from the country bordering Venezuela (Guyana) alike were as impressed by the quality of the food as I was every time I've visited. Easily the best food I tried in the time I spent studying in Cambridge, highly recommended!",5.0,53.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Burkhard Schwab,2017-08-20,Great food.,5.0,2.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Melissa Kline Struhl,2017-08-15,"Their hot sauce and arepas are amazing, get the tequeños.",5.0,10.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,ghenry navarro,2017-08-11,"The host was terrible!! Friday August 11th we arrived at the restaurant at 2:19 PM and that person told us that the restaurant was closed although the sign says will close at 2:30 PM.
+I guess isn't Venezuelan anymore!!",1.0,39.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alvin Crespo,2017-08-08,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,lynn eskin,2017-07-30,Best Sangria I ever had,4.0,5.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Xin DONG,2017-07-25,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dedo D,2017-07-24,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ale y,2017-07-14,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jef Fox,2017-07-03,"Very good Venezuelan food. Very meaty, so hopefully you're into that.",4.0,11.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Beyonder Domela,2017-06-28,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Monika Barot,2017-06-21,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrew Facini,2017-06-16,Delicious Venezuelan meals of various sizes in a beautifully tucked away spot in the Square. Often overlooked because it's away from the street! Go on a beautiful day and get an arepa on the back patio ☺️🇻🇪,5.0,37.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Cleola Payne,2017-06-15,"great food, outdoor seating and the staff were very attentive.",5.0,10.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Stella Viktoria Schieffer,2017-06-14,Nice restaurant with cozy outside patio and interesting selection of Venezuelan dishes.,4.0,12.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Dani Tedesco,2017-06-13,"Arepas is a great option if you are looking for fulfilling and healthy gluten free food. If you don't eat meat, try the Arepa Jardinera. If you do, I recommend the Arepa Pelúa. And if you love plantain just like me, you'll enjoy the Maracuchitos as a starter.",5.0,48.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Valerie Bernadotte,2017-06-11,The food is incredible. Worth the price. On my list of places to revisit.,4.0,14.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Laura Donnay,2017-06-11,"Charming place to eat. Great food and choice of wines. Small starters and main dishes, possibility to share. Beautiful and quiet garden at the back.",5.0,25.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Atia Butts,2017-06-09,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tarun Gupta,2017-06-04,Nice place for some Peruvian cuisine. Decently priced too,4.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Teddy Cleveland,2017-05-23,"Really delicious food. Be aware, it gets pretty crowded during peak hours and they don't take reservations.",5.0,17.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,J.C A,2017-05-14,I hate to be the bearer of bad news but the food was absolutely horrible and perhaps it could be it was late and we got the last scraps of the night. We had a meal that had a thin flat piece of steak that was extra dry like it was over cooked in a crock pot. The rice was basic from your regular ordinary household rice steamer. It was disappointing due to my first time having there food and was really looking forward to eating a good meal. The place is in fact cozy and nice and the staff was very nice and attentive.,2.0,105.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ibby Syed,2017-05-08,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Casey Granlund,2017-05-06,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Don Johnson,2017-05-04,Cozy place with delicious food. I would definitely go back. And their hot sauce! It was great.,5.0,17.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,f1l4nn1m,2017-04-04,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Heather Charron,2017-04-01,Hidden gem in Harvard Square. Cozy and homey vibe with delicious Venezuelan options. Try the ribs!,5.0,16.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrew Qian,2017-03-30,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Pulkit Shamshery,2017-03-29,Amazing ambience and delicious food. Try the paella criollo.,5.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jesus Cabrera,2017-03-24,"Really good, it's the best Latin kitchen",5.0,7.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Shivani Sheopory Hernandez,2017-03-11,"Very good quality Venezuelan food, good ambience, friendly service. The quantities looked small (thankfully, yay to not serving US portions) but the food was rich. Not overwhelming. They also have an amazing whole bottle of chilli sauce on your table! Prices are surprisingly reasonable.",5.0,44.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jennie Eosakul,2017-03-07,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Steven Guayaquil,2017-03-05,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Mansour Allaf,2017-03-05,"Good Venezuelan food, they also serve Arepa's.",4.0,7.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Michael Pease,2017-03-04,Reasonable prices and delicious food.,5.0,5.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jason Baldachino,2017-02-26,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jorge Pazos,2017-02-16,"Great food, great location.  Nice atmosphere and very good food.",5.0,10.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jonathan Ellis,2017-02-11,Great food. Tucked away hidden gem.,5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Karen Joanie,2017-02-09,awesome,5.0,1.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Brian Watson,2017-01-11,"Good (and maybe only?) place for Venezuelan food. Cozy, romantic atmosphere.",5.0,11.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Erin Bishop,2016-12-25,"Nice staff, delicious food. Depending on how busy they are, they may or may not seat you before your whole party arrives.",5.0,22.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tim Cheston,2016-12-09,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Benjamin Larson,2016-12-03,Fantastic hidden Venezuela food place.,4.0,5.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Luis Quiroga,2016-11-29,This is the best place to eat Arepas in Boston. Also the maracuchitos or the ribs are great appetizers.,5.0,19.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,gabriela villanueva,2016-11-21,,5.0,0.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Lena Wu,2016-11-07,One of my favorite restaurant in Cambridge. Lovely backyard and indoor low-top tables. Try arepas.,5.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Desiree Davison,2016-11-07,the empanadas are heavenly. perfect portion size. new favorite lunch spot in harvard sq.,5.0,14.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,David Walsh,2016-11-06,pepito sandwich and dates were amazing. great service too!,5.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Natalie Waxler,2016-10-31,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Catherine Chan-Bhanushali,2016-10-30,Cozy little hole-in-the-wall restaurant. The bacon-wrapped figs are a must-try,5.0,10.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Аркадий Кирштейн,2016-10-25,Very tasty! And good service!,5.0,5.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Juliet Richardson Collins,2016-10-07,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jesse Whelan,2016-09-19,Food here was good but staff were pretty disorganized making the place feel chaotic. You must try the mushroom flat bread and little dough pockets.,4.0,25.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Chris Branin,2016-09-11,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Arthur Safira,2016-09-10,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Meg Cantwell,2016-09-10,"Had the grilled asparagus (yum!), some plantains and some wine. Went around 8pm on a Friday night and had about an hour wait. Food was good, service was friendly, but not getting five stars as there were rumors of mice scarring around outside (not near the food, but as a characteristic of Cambridge), so we opted to eat inside.",4.0,59.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Abhishek Bajpayee,2016-09-07,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Tianyu Liu,2016-08-27,Very hard to find but the food was amazing!!,5.0,9.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Rivka Begun,2016-08-20,Delicious arepas. Everything here is awesome.,5.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Bo,2016-08-18,Loved my intro to Venezuelan cuisine here,5.0,7.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alessandro V.,2016-08-15,"Very good small plates that are fun to share. Empanadas and Arepas are must try. The Chorizo burger is delicious. Sangria is spiced with cinnamon and is tasty. If you want tasty Venezuelan food, definitely try this place out. This place has a nice outdoor patio area as well.",4.0,49.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Andrea Peña,2016-08-13,"The best attempt on real Venezuelan food I've eat in the east coast! Good job you guys! Also, excellent service.... 👍🏻",5.0,21.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,wayne smaling,2016-08-13,"Great experience, service and food! We'll be back!",5.0,8.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jorge Ramírez,2016-08-03,Very good small restaurant in the heart of Cambridge. Highly recommendable.,5.0,11.0,yes,no,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sindy Tan,2016-08-01,"Good seafood options. There is not much seating here, so this might be good for a quiet dinner but definitely not big groups.",4.0,23.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kim Sing,2016-08-01,"Venezuelan Brunch!
+Pros: Great for meat lovers (shredded beef and pork in particular), many flavorful, fried dishes, great for sharing, casual and moderate noise level
+Cons: Not many veggie options but they do offer two ensalata, not gluten friendly, but given that this is Venezuelan cuisine, this is typical fare.
+
+Would recommend? Yes",4.0,53.0,no,yes,yes,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Manish K Singh,2016-08-01,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Alper Okcan,2016-08-01,,4.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Maximilian Britton,2016-07-12,Fantastic food for dinner. Also heard it is also a great place for lunch.,5.0,14.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jahred,2016-07-11,"The food is great! It's not in the best location or easy to find, but it's great eats!",5.0,18.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Jefferson Lee,2016-07-11,"The food here is great. Both of types of empanadas are delicious, as are the side salad that accompanies them. I also highly recommend the tequenos and the hot sauce if you like spicy foods.",5.0,35.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Harold Hwang,2016-07-08,Solid Venezuelan food. Try the arepas,4.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Blayne Phillips,2016-07-05,Churassco is good,5.0,3.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,David Hagmann,2016-06-15,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,J.H. Li,2016-05-21,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Brian Dubois,2016-05-17,We've been to this location and the one in South End.  Once we went with my Venezuelan uncle and he was super happy with the food.,5.0,26.0,no,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Gabriel Begun,2016-05-16,Yummy arepas great atmosphere,5.0,4.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,K,2016-05-09,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Kevin E,2016-04-13,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Franck Cuny,2016-03-20,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Serena Facchinetti,2016-03-09,"A little restaurant almost hidden - look for the entrance on an alley! Food is ok and for the most part really South American. I had a special (foie gras empanada) and was not impressed. The side of crispy Yucca I loved, but know it's covered in really strong garlic sauce!",3.0,51.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,David Liang,2016-03-06,"Food: 4
+Decor: 3
+Service: 4
+
+Came here with a group of 5 for lunch.
+
+1. Pepito de Costillita, 8
+slow-cooked, boneless passion-fruit bbq baby-back ribs, with pickled onions and vinegar coleslaw.
+~Pretty good. Nicely balanced.
+
+Service was good, although our food was delayed since the fire alarm went off.",4.0,50.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Hansel B.,2016-03-04,"the arepas are the highlight here. I recommend just ordering a few of these for the entire meal (2 per person is a moderate portion), the cheese on them was addictive! They also had some interestin appz, but I didn't get any of those.",4.0,44.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Charlie Draper,2016-03-03,"This restaurant doesn't take reservations, and it's easy to see why. The food was fantastic. Turn up and try your luck. We were a group of six and got a table within twenty minutes.",5.0,34.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Adam White,2016-03-01,"A tad overlooked, but the awesome little restaurant has delicious everything (I love the mango ribs!) an incredible hot sauce and a patio that can't be beat in the summer.",5.0,30.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Elizabeth Schneider,2016-01-22,"I enjoyed the empanadas and palmito salad and of course the bacon wrapped dates. The cocktails are a treat, especially when enjoyed on the outside patio in summer.",5.0,28.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Peter McCullagh,2016-01-12,"Great atmosphere, but the food is just alright and nothing memorable.",4.0,11.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Vítor,2016-01-04,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,L Brouillard,2015-12-27,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Salvatore Mandrà,2015-11-29,,3.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,anggie estanga,2015-11-18,"No era lo que esperaba, pues la Sra. de la entrada fue muy grosera, sin embargo el camarero fue muy amable y servicial.",2.0,23.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Baris Sevinc,2015-11-14,,5.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Ananda Ghosh,2015-11-08,,5.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Angel Torres,2015-07-19,"Great atmosphere, a little hidden, but very nice and friendly. The empanadas and arepas were amazing!",5.0,16.0,yes,yes,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Demichael R.,2015-07-06,Cannot possible rave more about how great my experience here is. The food is fantastic and the choices numerous! Service is incredible (especially our server Esteban)! Cocktails and wine choices are also well selected. I highly recommend this place and all of its locations around the city!,5.0,47.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,P Mnt,2015-04-17,,4.0,0.0,no,no,no,low,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Luis Yepez,2014-11-22,,4.0,0.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Megan Drahos,2014-07-16,"Fantastic dining experience, true Venezuelan eatery with many options. Exceptional service and on point recommendations.",5.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Fadel Ibrahim,2014-06-09,The mix of flavors of the Venezuelan food is amazing and they cook it well.,5.0,15.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Vincent Shen,2014-04-09,Quite a secluded place for dinner.,4.0,6.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,James Damore,2013-07-20,,2.0,0.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,avantika nautiyal,2013-02-16,"Tucked away in an alley, Orinoco creates a sense of timelessness in the middle of the city. A seating next to the fountain in their patio and traditional music successfully transports its guests to South America.
+Highlights of the menu: Arepas, slow cooked pork and imported cheese with vibrant accompaniments/dressings, vegetarians will not be compromising with their appetite either! Fried plantains stuffed with cheese are a burst of surprise!",4.0,69.0,no,no,no,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,Sergio Guerra,2012-11-24,The best Venezuelan food in Cambridge,5.0,6.0,yes,no,yes,high,gpt-4o-2024-08-06
+Orinoco Harvard Square,Venezuelan,merli merlo,2012-11-23,,3.0,0.0,no,no,no,low,gpt-4o-2024-08-06
