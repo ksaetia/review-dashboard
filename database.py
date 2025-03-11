@@ -47,7 +47,7 @@ def init_db_with_csv():
         session.commit()
 
         # Read new CSV file
-        df = pd.read_csv('attached_assets/aggregated_analysis.csv')
+        df = pd.read_csv('attached_assets/orinoco_aggregated_analysis.csv')
 
         # Convert dataframe to list of Review objects
         reviews = []
@@ -88,7 +88,7 @@ def init_db_with_csv():
     finally:
         session.close()
 
-def get_reviews(selected_restaurant, selected_type, selected_response, selected_confidence, selected_review_only, selected_name_only):
+def get_reviews(selected_restaurant, selected_type, selected_response, selected_confidence, selected_review_only, selected_name_only, selected_model):
     """Get reviews with optional filters"""
     session = Session()
     query = session.query(Review)
@@ -104,6 +104,8 @@ def get_reviews(selected_restaurant, selected_type, selected_response, selected_
         query = query.filter(Review.review_only == selected_review_only)
     if selected_name_only != 'All':
         query = query.filter(Review.name_only == selected_name_only)
+    if selected_model != 'All':
+        query = query.filter(Review.model == selected_model)
     reviews = query.all()
     session.close()
     return reviews

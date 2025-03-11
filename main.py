@@ -22,7 +22,7 @@ st.markdown('<h1 class="restaurant-title">Restaurant Review Dashboard 🍽️</h
 
 # Create filter section
 st.markdown('<div class="filter-section">', unsafe_allow_html=True)
-col1, col2, col3, col4, col5, col6 = st.columns(6)
+col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
 
 with col1:
     # Get unique restaurant names from database
@@ -80,11 +80,28 @@ with col6:
         'Select Confidence Level',
         ['All'] + list(confidence_levels)
     )
+with col7:
+    # Model filter
+    session = Session()
+    models = sorted(set(r[0] for r in session.query(Review.model).distinct()))
+    session.close()
 
+    selected_model = st.selectbox(
+        'Select Model',
+        ['All'] + list(models)
+    )
 st.markdown('</div>', unsafe_allow_html=True)
 
 # Get filtered reviews from database
-reviews = get_reviews(selected_restaurant, selected_type, selected_name_and_review, selected_confidence, selected_review_only, selected_name_only)
+reviews = get_reviews(
+    selected_restaurant, 
+    selected_type, 
+    selected_name_and_review, 
+    selected_confidence, 
+    selected_review_only, 
+    selected_name_only, 
+    selected_model
+)
 
 # Convert reviews to dataframe for display
 filtered_df = pd.DataFrame([{
