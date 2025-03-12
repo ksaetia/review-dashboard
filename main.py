@@ -138,7 +138,7 @@ with col3:
     # Calculate Is-a-Local rate: percentage of reviews that are from local reviewers
     if not filtered_df.empty:
         total_responses = len(filtered_df)
-        condition = ((filtered_df['name_and_review'] == 'yes') & (filtered_df['confidence'] == 'high'))
+        condition = ((filtered_df['review_only'] == 'yes') & (filtered_df['name_only'] == 'yes') & (filtered_df['confidence'] == 'high'))
         responded_reviews = len(filtered_df[condition])
         response_rate = round(100 * responded_reviews / total_responses, 1)
     else:
@@ -147,7 +147,7 @@ with col3:
     st.metric(
         "Is-a-Local Rate", 
         f"{response_rate}%",
-        help="Percentage of reviews with 'Name and Review' = yes and 'Confidence' = high"
+        help="Percentage of reviews with 'Name Only' = yes, 'Review Only' = yes, and 'Confidence' = high"
     )
     st.markdown('</div>', unsafe_allow_html=True)
 
