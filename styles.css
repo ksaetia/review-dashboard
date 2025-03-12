@@ -44,3 +44,16 @@
 }
 
 /* Ensure text wrapping in cells */
+
+/* Reset button styles */
+[data-testid="baseButton-secondary"] {
+    margin-top: 1.5rem;
+    width: 100%;
+    background-color: #ff4b4b;
+    color: white;
+}
+
+[data-testid="baseButton-secondary"]:hover {
+    background-color: #ff3333;
+    color: white;
+}

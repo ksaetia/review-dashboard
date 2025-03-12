@@ -30,6 +30,7 @@ class Review(Base):
     name_and_review = Column(String(3), nullable=False)  # New column
     confidence = Column(String(10), nullable=False)  # New column
     model = Column(String(50), nullable=False)  # New column
+    is_local = Column(String(3), nullable=False)  # New column
 
 # Create tables
 Base.metadata.create_all(engine)
@@ -47,7 +48,8 @@ def init_db_with_csv():
         session.commit()
 
         # Read new CSV file
-        df = pd.read_csv('attached_assets/orinoco_aggregated_analysis.csv')
+        # df = pd.read_csv('attached_assets/orinoco_aggregated_analysis.csv')
+        df = pd.read_csv('attached_assets/batch_aggregated_analysis.csv')
 
         # Convert dataframe to list of Review objects
         reviews = []
@@ -66,7 +68,8 @@ def init_db_with_csv():
                     review_only=row.get('Review Only', None),
                     name_and_review=row.get('Name & Review', None),
                     confidence=row.get('Confidence', None),
-                    model=row.get('Model', 'unknown')
+                    model=row.get('Model', 'unknown'),
+                    is_local=row.get('Is Local', None)
                 )
                 reviews.append(review)
             except Exception as e:
@@ -88,24 +91,26 @@ def init_db_with_csv():
     finally:
         session.close()
 
-def get_reviews(selected_restaurant, selected_type, selected_response, selected_confidence, selected_review_only, selected_name_only, selected_model):
+def get_reviews(restaurant=None, type=None, name_and_review=None, confidence=None, review_only=None, name_only=None, model=None, is_local=None):
     """Get reviews with optional filters"""
     session = Session()
     query = session.query(Review)
-    if selected_restaurant != 'All':
-        query = query.filter(Review.restaurant_name == selected_restaurant)
-    if selected_type != 'All':
-        query = query.filter(Review.type == selected_type)
-    if selected_response != 'All':
-        query = query.filter(Review.name_and_review == selected_response)
-    if selected_confidence != 'All':
-        query = query.filter(Review.confidence == selected_confidence)
-    if selected_review_only != 'All':
-        query = query.filter(Review.review_only == selected_review_only)
-    if selected_name_only != 'All':
-        query = query.filter(Review.name_only == selected_name_only)
-    if selected_model != 'All':
-        query = query.filter(Review.model == selected_model)
+    if restaurant != 'All':
+        query = query.filter(Review.restaurant_name == restaurant)
+    if type != 'All':
+        query = query.filter(Review.type == type)
+    if name_and_review != 'All':
+        query = query.filter(Review.name_and_review == name_and_review)
+    if confidence != 'All':
+        query = query.filter(Review.confidence == confidence)
+    if review_only != 'All':
+        query = query.filter(Review.review_only == review_only)
+    if name_only != 'All':
+        query = query.filter(Review.name_only == name_only)
+    if model != 'All':
+        query = query.filter(Review.model == model)
+    if is_local != 'All':
+        query = query.filter(Review.is_local == is_local)
     reviews = query.all()
     session.close()
     return reviews

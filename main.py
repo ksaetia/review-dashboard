@@ -17,12 +17,16 @@ with open('styles.css') as f:
 # Initialize database with CSV data
 init_db_with_csv()
 
+# Initialize session state for filters if not exists
+if 'reset_filters' not in st.session_state:
+    st.session_state.reset_filters = False
+
 # Main title
 st.markdown('<h1 class="restaurant-title">Restaurant Review Dashboard 🍽️</h1>', unsafe_allow_html=True)
 
 # Create filter section
 st.markdown('<div class="filter-section">', unsafe_allow_html=True)
-col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
+col1, col2, col3, col4, col5, col6, col7, col8 = st.columns(8)
 
 with col1:
     # Get unique restaurant names from database
@@ -71,6 +75,14 @@ with col5:
     )
 
 with col6:
+    # Is Local filter
+    is_local_options = ['All', 'yes', 'no']
+    selected_is_local = st.selectbox(
+        'Is Local',
+        is_local_options
+    )
+
+with col7:
     # Confidence filter
     session = Session()
     confidence_levels = sorted(set(r[0] for r in session.query(Review.confidence).distinct()))
@@ -80,7 +92,8 @@ with col6:
         'Select Confidence Level',
         ['All'] + list(confidence_levels)
     )
-with col7:
+
+with col8:
     # Model filter
     session = Session()
     models = sorted(set(r[0] for r in session.query(Review.model).distinct()))
@@ -90,6 +103,20 @@ with col7:
         'Select Model',
         ['All'] + list(models)
     )
+
+# Add reset button
+if st.button('Reset Filters', key='reset_btn', help='Reset all filters to default'):
+    # Force all selectboxes to reset to 'All' on next rerun
+    st.session_state.reset_filters = True
+    st.rerun()
+
+# Reset logic for selectboxes
+if st.session_state.reset_filters:
+    st.session_state.reset_filters = False
+    for key in st.session_state.keys():
+        if key.endswith('selectbox'):
+            st.session_state[key] = 0
+
 st.markdown('</div>', unsafe_allow_html=True)
 
 # Get filtered reviews from database
@@ -99,8 +126,9 @@ reviews = get_reviews(
     selected_name_and_review, 
     selected_confidence, 
     selected_review_only, 
-    selected_name_only, 
-    selected_model
+    selected_name_only,
+    selected_model,
+    selected_is_local
 )
 
 # Convert reviews to dataframe for display
@@ -116,7 +144,8 @@ filtered_df = pd.DataFrame([{
     'name_only': r.name_only,
     'review_only': r.review_only,
     'confidence': r.confidence,
-    'model': r.model
+    'model': r.model,
+    'is_local': r.is_local
 } for r in reviews])
 
 # Display metrics
@@ -162,7 +191,7 @@ if not filtered_df.empty:
 
     # Display the dataframe with improved text display
     st.dataframe(
-        display_df[['restaurant_name', 'type', 'date_created', 'name', 'rating', 'review', 'word_count', 'name_only', 'review_only', 'name_and_review', 'confidence', 'model']],  # Reordered columns
+        display_df[['restaurant_name', 'type', 'date_created', 'name', 'rating', 'review', 'word_count', 'name_only', 'review_only', 'name_and_review', 'confidence', 'model', 'is_local']],  # Added is_local
         column_config={
             "restaurant_name": st.column_config.TextColumn(
                 "Restaurant",
@@ -218,6 +247,10 @@ if not filtered_df.empty:
             "model": st.column_config.TextColumn(
                 "Model",
                 width=80
+            ),
+            "is_local": st.column_config.TextColumn(
+                "Is Local",
+                width=50
             )
         },
         hide_index=True,
