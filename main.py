@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-from database import init_db_with_csv, get_reviews, Review, Session
+from database import init_db_with_csv, get_reviews, get_rating_summary, Review, Session
 
 # Page configuration
 st.set_page_config(
@@ -149,7 +149,7 @@ filtered_df = pd.DataFrame([{
 } for r in reviews])
 
 # Display metrics
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns([1, 1, 1, 2])
 
 with col1:
     st.markdown('<div class="metrics-container">', unsafe_allow_html=True)
@@ -177,6 +177,61 @@ with col3:
         "Is-a-Local Rate", 
         f"{response_rate}%",
         help="Percentage of reviews with 'Name Only' = yes, 'Review Only' = yes, and 'Confidence' = high"
+    )
+    st.markdown('</div>', unsafe_allow_html=True)
+
+with col4:
+    st.markdown('<div class="metrics-container">', unsafe_allow_html=True)
+    st.markdown('<h3>Rating Summary for All Restaurants</h3>', unsafe_allow_html=True)
+    
+    # Get rating summary
+    rating_summary = get_rating_summary()
+    
+    # Convert to dataframe with all columns
+    summary_df = pd.DataFrame(rating_summary, columns=[
+        'Restaurant', 'Review Count', 'Average Rating', 
+        'Average Local Rating', 'Local Rate'
+    ])
+    
+    # Round numeric columns
+    summary_df['Average Rating'] = summary_df['Average Rating'].round(2)
+    summary_df['Average Local Rating'] = summary_df['Average Local Rating'].round(2)
+    summary_df['Local Rate'] = summary_df['Local Rate'].round(1)
+    
+    # Sort by average rating in descending order
+    summary_df = summary_df.sort_values('Average Rating', ascending=False)
+    
+    # Display the summary table
+    st.dataframe(
+        summary_df,
+        column_config={
+            "Restaurant": st.column_config.TextColumn(
+                "Restaurant",
+                width=150
+            ),
+            "Review Count": st.column_config.NumberColumn(
+                "Reviews",
+                format="%d",
+                width=70
+            ),
+            "Average Rating": st.column_config.NumberColumn(
+                "Avg Rating",
+                format="%.2f ⭐",
+                width=100
+            ),
+            "Average Local Rating": st.column_config.NumberColumn(
+                "Local Rating",
+                format="%.2f ⭐",
+                width=100
+            ),
+            "Local Rate": st.column_config.NumberColumn(
+                "Local %",
+                format="%.1f%%",
+                width=80
+            )
+        },
+        hide_index=True,
+        use_container_width=True
     )
     st.markdown('</div>', unsafe_allow_html=True)
 
