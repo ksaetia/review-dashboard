@@ -4,6 +4,7 @@ from sqlalchemy.orm import sessionmaker
 import os
 import pandas as pd
 from datetime import datetime
+import streamlit as st
 
 # Get the database URL from environment variable or use a default SQLite database
 DATABASE_URL = os.getenv('DATABASE_URL', 'sqlite:///reviews.db')
@@ -37,7 +38,7 @@ Base.metadata.create_all(engine)
 
 # Create session factory
 Session = sessionmaker(bind=engine)
-
+@st.cache_resource
 def init_db_with_csv():
     """Initialize database with data from CSV file"""
     try:
@@ -91,6 +92,7 @@ def init_db_with_csv():
     finally:
         session.close()
 
+@st.cache_data
 def get_reviews(restaurant=None, type=None, name_and_review=None, confidence=None, review_only=None, name_only=None, model=None, is_local=None):
     """Get reviews with optional filters"""
     session = Session()
