@@ -75,7 +75,7 @@ with col5:
     )
 
 with col6:
-# Is Local filter
+    # Is Local filter
     is_local_options = ['All', 'yes', 'no']
     selected_is_local = st.selectbox(
         'Is Local',
@@ -183,23 +183,6 @@ with col3:
 # Display reviews
 st.markdown("<h3>Reviews</h3>", unsafe_allow_html=True)
 
-# Paginate data
-def paginate_dataframe(df, page_size):
-    total_pages = (len(df) // page_size) + 1
-    page = st.sidebar.number_input('Page', min_value=1, max_value=total_pages, step=1)
-    start_idx = (page - 1) * page_size
-    end_idx = start_idx + page_size
-    return df.iloc[start_idx:end_idx]
-
-page_size = 40
-paginated_df = paginate_dataframe(filtered_df, page_size)
-
-def split_frame(input_df, rows):
-    df = [input_df.loc[i : i + rows - 1, :] for i in range(0, len(input_df), rows)]
-    return df
-
-pagination = st.container()
-
 if not filtered_df.empty:
     # Format the dataframe for display
     display_df = filtered_df.copy()
@@ -208,7 +191,7 @@ if not filtered_df.empty:
 
     # Display the dataframe with improved text display
     st.dataframe(
-        paginated_df[['restaurant_name', 'type', 'date_created', 'name', 'rating', 'review', 'word_count', 'name_only', 'review_only', 'name_and_review', 'confidence', 'model', 'is_local']],  # Reordered columns
+        display_df[['restaurant_name', 'type', 'date_created', 'name', 'rating', 'review', 'word_count', 'name_only', 'review_only', 'name_and_review', 'confidence', 'model', 'is_local']],  # Added is_local
         column_config={
             "restaurant_name": st.column_config.TextColumn(
                 "Restaurant",
@@ -276,22 +259,6 @@ if not filtered_df.empty:
     )
 else:
     st.info("No reviews found with the selected filters.")
-
-bottom_menu = st.columns((4, 1, 1))
-with bottom_menu[2]:
-    batch_size = st.selectbox("Page Size", options=[20, 40, 100])
-with bottom_menu[1]:
-    total_pages = (
-        int(len(filtered_df) / batch_size) if int(len(filtered_df) / batch_size) > 0 else 1
-    )
-    current_page = st.number_input(
-        "Page", min_value=1, max_value=total_pages, step=1
-    )
-with bottom_menu[0]:
-    st.markdown(f"Page **{current_page}** of **{total_pages}** ")
-
-pages = split_frame(filtered_df, batch_size)
-pagination.dataframe(data=pages[current_page - 1], use_container_width=True)
 
 # Footer
 st.markdown("---")
