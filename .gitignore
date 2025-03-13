@@ -1,0 +1,33 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite3
+
+# Ignore virtual environment directories
+venv/
+env/
