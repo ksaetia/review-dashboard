@@ -5,6 +5,7 @@ import os
 import pandas as pd
 from datetime import datetime
 import streamlit as st
+from sqlalchemy.sql import func, case  # Added missing imports
 
 # Get the database URL from environment variable or use a default SQLite database
 DATABASE_URL = os.getenv('DATABASE_URL', 'sqlite:///reviews.db')
@@ -25,19 +26,20 @@ class Review(Base):
     name = Column(String(100), nullable=True)
     review = Column(Text, nullable=True)
     rating = Column(Float, nullable=True)
-    word_count = Column(Float, nullable=False)  # New column
-    name_only = Column(String(3), nullable=False)  # New column
-    review_only = Column(String(3), nullable=False)  # New column
-    name_and_review = Column(String(3), nullable=False)  # New column
-    confidence = Column(String(10), nullable=False)  # New column
-    model = Column(String(50), nullable=False)  # New column
-    is_local = Column(String(3), nullable=False)  # New column
+    word_count = Column(Float, nullable=False, default=0)  # Added default value
+    name_only = Column(String(3), nullable=False, default='no')  # Added default value
+    review_only = Column(String(3), nullable=False, default='no')  # Added default value
+    name_and_review = Column(String(3), nullable=False, default='no')  # Added default value
+    confidence = Column(String(10), nullable=False, default='low')  # Added default value
+    model = Column(String(50), nullable=False, default='unknown')  # Added default value
+    is_local = Column(String(3), nullable=False, default='no')  # Added default value
 
 # Create tables
 Base.metadata.create_all(engine)
 
 # Create session factory
 Session = sessionmaker(bind=engine)
+
 @st.cache_resource
 def init_db_with_csv():
     """Initialize database with data from CSV file"""
@@ -49,7 +51,6 @@ def init_db_with_csv():
         session.commit()
 
         # Read new CSV file
-        # df = pd.read_csv('attached_assets/orinoco_aggregated_analysis.csv')
         df = pd.read_csv('attached_assets/batch_aggregated_analysis.csv')
 
         # Convert dataframe to list of Review objects
@@ -116,3 +117,25 @@ def get_reviews(restaurant=None, type=None, name_and_review=None, confidence=Non
     reviews = query.all()
     session.close()
     return reviews
+
+@st.cache_data
+def get_rating_summary():
+    """Get rating summary per restaurant"""
+    session = Session()
+    query = session.query(
+        Review.restaurant_name,
+        func.count(Review.id).label('review_count'),
+        func.avg(Review.rating).label('average_rating'),
+        (func.sum(case(
+            (Review.is_local == 'yes', Review.rating),
+        )) / func.sum(case(
+            (Review.is_local == 'yes', 1),
+        ))).label('average_local_rating'),
+        (func.sum(func.coalesce(case(
+            (Review.is_local == 'yes', 1),
+        ), 0)) / func.count(Review.id) * 100).label('local_rate')
+    ).filter(Review.model == 'gpt-4o-2024-08-06').group_by(Review.restaurant_name)
+    
+    rating_summary = query.all()
+    session.close()
+    return rating_summary
