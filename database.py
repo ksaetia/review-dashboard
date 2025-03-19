@@ -21,7 +21,7 @@ class Review(Base):
 
     id = Column(Integer, primary_key=True)
     restaurant_name = Column(String(100), nullable=False)
-    type = Column(String(50), nullable=False)
+    cuisine = Column(String(50), nullable=False)
     date_created = Column(DateTime, nullable=False)
     name = Column(String(100), nullable=True)
     review = Column(Text, nullable=True)
@@ -60,7 +60,7 @@ def init_db_with_csv():
                 # Handle potential missing columns with defaults
                 review = Review(
                     restaurant_name=row['Restaurant Name'],
-                    type=row['Cuisine'],
+                    cuisine=row['Cuisine'],
                     date_created=pd.to_datetime(row['Review Date']),
                     name=row['Reviewer Name'],
                     review=row['Review'],
@@ -94,33 +94,31 @@ def init_db_with_csv():
         session.close()
 
 @st.cache_data
-def get_reviews(restaurant=None, type=None, name_and_review=None, confidence=None, review_only=None, name_only=None, model=None, is_local=None):
+def get_reviews(restaurant=None, cuisine=None, name_and_review=None, confidence=None, review_only=None, name_only=None, is_local=None):
     """Get reviews with optional filters"""
     session = Session()
     query = session.query(Review)
-    if restaurant != 'All':
-        query = query.filter(Review.restaurant_name == restaurant)
-    if type != 'All':
-        query = query.filter(Review.type == type)
-    if name_and_review != 'All':
-        query = query.filter(Review.name_and_review == name_and_review)
-    if confidence != 'All':
-        query = query.filter(Review.confidence == confidence)
-    if review_only != 'All':
-        query = query.filter(Review.review_only == review_only)
-    if name_only != 'All':
-        query = query.filter(Review.name_only == name_only)
-    if model != 'All':
-        query = query.filter(Review.model == model)
-    if is_local != 'All':
-        query = query.filter(Review.is_local == is_local)
+    if restaurant and 'All' not in restaurant:
+        query = query.filter(Review.restaurant_name.in_(restaurant))
+    if cuisine and 'All' not in cuisine:
+        query = query.filter(Review.cuisine.in_(cuisine))
+    if name_and_review and 'All' not in name_and_review:
+        query = query.filter(Review.name_and_review.in_(name_and_review))
+    if confidence and 'All' not in confidence:
+        query = query.filter(Review.confidence.in_(confidence))
+    if review_only and 'All' not in review_only:
+        query = query.filter(Review.review_only.in_(review_only))
+    if name_only and 'All' not in name_only:
+        query = query.filter(Review.name_only.in_(name_only))
+    if is_local and 'All' not in is_local:
+        query = query.filter(Review.is_local.in_(is_local))
     reviews = query.all()
     session.close()
     return reviews
 
 @st.cache_data
-def get_rating_summary():
-    """Get rating summary per restaurant"""
+def get_rating_summary(restaurant=None, cuisine=None, name_and_review=None, confidence=None, review_only=None, name_only=None, is_local=None):
+    """Get rating summary per restaurant with optional filters"""
     session = Session()
     query = session.query(
         Review.restaurant_name,
@@ -134,8 +132,24 @@ def get_rating_summary():
         (func.sum(func.coalesce(case(
             (Review.is_local == 'yes', 1),
         ), 0)) / func.count(Review.id) * 100).label('local_rate')
-    ).filter(Review.model == 'gpt-4o-2024-08-06').group_by(Review.restaurant_name)
-    
+    ).group_by(Review.restaurant_name)
+
+    # Apply filters
+    if restaurant and 'All' not in restaurant:
+        query = query.filter(Review.restaurant_name.in_(restaurant))
+    if cuisine and 'All' not in cuisine:
+        query = query.filter(Review.cuisine.in_(cuisine))
+    if name_and_review and 'All' not in name_and_review:
+        query = query.filter(Review.name_and_review.in_(name_and_review))
+    if confidence and 'All' not in confidence:
+        query = query.filter(Review.confidence.in_(confidence))
+    if review_only and 'All' not in review_only:
+        query = query.filter(Review.review_only.in_(review_only))
+    if name_only and 'All' not in name_only:
+        query = query.filter(Review.name_only.in_(name_only))
+    if is_local and 'All' not in is_local:
+        query = query.filter(Review.is_local.in_(is_local))
+
     rating_summary = query.all()
     session.close()
     return rating_summary
